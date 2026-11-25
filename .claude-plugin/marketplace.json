@@ -1,0 +1,12 @@
+{
+  "name": "qhooks",
+  "description": "QHooks skills and MCP plugin for AI agents.",
+  "owner": { "name": "QHooks", "email": "team@qhooks.com" },
+  "plugins": [
+    {
+      "name": "qhooks",
+      "source": "./plugin",
+      "description": "QHooks token markets, stored QProof checks, perps data and unsigned trade, launch, OTC and agreement plans."
+    }
+  ]
+}
